@@ -1,9 +1,9 @@
 # aula20260219_eng-soft
 Aula do Max
 
-Requisitos funcionais (RF)
-Requisitos não funcionais (RNF)
-Regras de Negócio (RN)
+Requisitos funcionais (RF) <br>
+Requisitos não funcionais (RNF) <br>
+Regras de Negócio (RN) <br>
 
-Issues
+Issues<br>
 Milestones
