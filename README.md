@@ -10,4 +10,4 @@ Regras de Negócio (RN) <br>
 - Criar os docs de requisitos e RN
 - Criar issues baseadas no requisitos
 - Criar milestones
-- ???
+- Testar PR
